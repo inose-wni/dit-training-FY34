@@ -1,7 +1,7 @@
 Project X
 ===
 
-Welcome to Project X!
+Welcome to Project inose!
 
 Section 1
 ----
